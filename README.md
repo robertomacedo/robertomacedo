@@ -7,6 +7,6 @@
 
 
 <div style="display inline-block:"><br>
-<img align="center" alt="macedo-Python" height-"30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/deviconpython-original.svg">
+<img align="center" alt="macedo-Python" height-"30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
