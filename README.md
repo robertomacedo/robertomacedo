@@ -7,8 +7,10 @@
 
 <div>
   <a href="https://github.com/robertomacedo">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username+robertomacedo&show_icons=true&theme=dracula&include_all_commit=true&count_private=true"/>
 </div>
 
+ 
 
 <div style="display inline-block:"><br>
 <img align="center" alt="macedo-Python" height-"30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
