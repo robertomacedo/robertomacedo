@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/robertomacedo">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username+robertomacedo&show_icons=true&theme=dracula&include_all_commit=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertomacedo&show_icons=true&theme=dracula&include_all_commit=true&count_private=true"/>
 </div>
 
  
